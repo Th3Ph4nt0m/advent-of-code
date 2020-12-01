@@ -12,7 +12,7 @@ This repository contains my solutions for the [Advent of Code](https://adventofc
 
 Here you can see an overview of the completeness of the solutions in different languages:
 
-| Day | Paython | Java |
+| Day | Python | Java |
 |--|--|--|
 |01|✅|✅|
 |02|❌|❌|
