@@ -14,7 +14,7 @@ Here you can see an overview of the completeness of the solutions in different l
 
 | Day | Paython | Java |
 |--|--|--|
-|01|❌|❌|
+|01|✅|✅|
 |02|❌|❌|
 |03|❌|❌|
 |04|❌|❌|
