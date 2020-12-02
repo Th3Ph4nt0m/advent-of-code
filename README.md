@@ -15,7 +15,7 @@ Here you can see an overview of the completeness of the solutions in different l
 | Day | Python | Java |
 |--|--|--|
 |01|✅|✅|
-|02|❌|❌|
+|02|✅|❌|
 |03|❌|❌|
 |04|❌|❌|
 |05|❌|❌|
