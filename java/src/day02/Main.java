@@ -61,6 +61,7 @@ public class Main
             String[] counts = policy[0].split("-");
             int min = Integer.parseInt(counts[0]);
             int max = Integer.parseInt(counts[1]);
+            String pw = split[1];
 
             if((pw.charAt(min - 1) == letter) != (pw.charAt(max - 1) == letter)){
                 result++;
