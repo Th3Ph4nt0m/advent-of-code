@@ -19,7 +19,7 @@ Here you can see an overview of the completeness of the solutions in different l
 |03|✅|✅|
 |04|✅|❌|
 |05|✅|❌|
-|06|❌|❌|
+|06|✅|❌|
 |07|❌|❌|
 |08|❌|❌|
 |09|❌|❌|
