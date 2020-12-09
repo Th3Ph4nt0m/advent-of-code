@@ -22,7 +22,7 @@ Here you can see an overview of the completeness of the solutions in different l
 |06|✅|❌|
 |07|✅|❌|
 |08|✅|❌|
-|09|❌|❌|
+|09|✅|❌|
 |10|❌|❌|
 |11|❌|❌|
 |12|❌|❌|
