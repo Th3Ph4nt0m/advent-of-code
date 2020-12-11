@@ -24,7 +24,7 @@ Here you can see an overview of the completeness of the solutions in different l
 |08|✅|❌|
 |09|✅|❌|
 |10|✅|❌|
-|11|❌|❌|
+|11|✅|❌|
 |12|❌|❌|
 |13|❌|❌|
 |14|❌|❌|
